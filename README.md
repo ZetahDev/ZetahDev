@@ -1,41 +1,20 @@
-<!-- Encabezado Hero Premium -->
+<!-- Encabezado Hero Premium con partículas animadas -->
 <div align="center">
-  
-  # 👋 Hi, I'm **Johan S. Castro**
-  
-  ## Full Stack Developer & AI/ML Expert
-  
-  **✨ Passionate about building complete digital solutions powered by AI from Colombia ✨**
-  
-  <img src="https://img.shields.io/badge/📍%20Location-Colombia-D4AF37?style=flat-square" alt="Location" />
-  <img src="https://img.shields.io/badge/💻%20Focus-Full%20Stack%20%2B%20AI%2FML-1e90ff?style=flat-square" alt="Focus" />
-  <img src="https://img.shields.io/badge/🚀%20Passion-Building%20Intelligent%20Systems-ff69b4?style=flat-square" alt="Passion" />
-  
+  <img src="./hero-banner.svg" alt="Johan S. Castro — Full Stack Developer & AI/ML Expert" width="100%"/>
 </div>
 
 ---
 
-<!-- Estadísticas Premium Dashboard -->
+<!-- Stats compactas -->
 <div align="center">
-  
+
   ## 📊 My GitHub Journey
-  
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <img src="https://github-profile-trophy.vercel.app/?username=zetahdev&theme=onestar&row=1&column=1&no-frame=true" alt="Trophy" />
-      </td>
-      <td align="center" width="25%">
-        <img src="https://komarev.com/ghpvc/?username=zetahdev&color=D4AF37&style=flat-square&label=Profile+Views" alt="Profile Views" />
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/github/followers/zetahdev?style=social" alt="Followers" />
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/github/stars/zetahdev?style=social" alt="Total Stars" />
-      </td>
-    </tr>
-  </table>
+
+  <img src="https://komarev.com/ghpvc/?username=zetahdev&color=D4AF37&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/zetahdev?style=social" alt="Followers" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/zetahdev?style=social" alt="Total Stars" />
 
 </div>
 
