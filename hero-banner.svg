@@ -1,0 +1,144 @@
+<svg width="100%" viewBox="0 0 680 320" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>Johan S. Castro — Full Stack Developer &amp; AI/ML Expert</title>
+  <desc>Encabezado animado con partículas doradas flotantes</desc>
+
+  <defs>
+    <radialGradient id="bgGlow" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#2a1f00" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#0d0d0d" stop-opacity="1"/>
+    </radialGradient>
+    <radialGradient id="goldGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#D4AF37" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#D4AF37" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft">
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="680" height="320" fill="url(#bgGlow)" rx="12"/>
+  <ellipse cx="340" cy="160" rx="280" ry="140" fill="url(#goldGlow)"/>
+  <rect x="1" y="1" width="678" height="318" rx="11" fill="none" stroke="#D4AF37" stroke-width="0.6" stroke-opacity="0.4"/>
+
+  <!-- Partículas flotantes -->
+  <circle cx="60" cy="80" r="3" fill="#D4AF37" fill-opacity="0.7" filter="url(#soft)">
+    <animate attributeName="cy" values="80;50;80" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="fill-opacity" values="0.7;0.2;0.7" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="610" cy="220" r="2.5" fill="#D4AF37" fill-opacity="0.6" filter="url(#soft)">
+    <animate attributeName="cy" values="220;190;220" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="fill-opacity" values="0.6;0.15;0.6" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="120" cy="240" r="2" fill="#F0C040" fill-opacity="0.5">
+    <animate attributeName="cy" values="240;210;240" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="fill-opacity" values="0.5;0.1;0.5" dur="7s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="560" cy="60" r="2" fill="#D4AF37" fill-opacity="0.5">
+    <animate attributeName="cy" values="60;35;60" dur="4.5s" repeatCount="indefinite"/>
+    <animate attributeName="fill-opacity" values="0.5;0.1;0.5" dur="4.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="200" cy="40" r="1.5" fill="#F0C040" fill-opacity="0.6">
+    <animate attributeName="cy" values="40;20;40" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="cx" values="200;215;200" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="480" cy="280" r="1.5" fill="#D4AF37" fill-opacity="0.5">
+    <animate attributeName="cy" values="280;260;280" dur="6.5s" repeatCount="indefinite"/>
+    <animate attributeName="cx" values="480;465;480" dur="6.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="340" cy="30" r="1.5" fill="#D4AF37" fill-opacity="0.4">
+    <animate attributeName="cy" values="30;12;30" dur="5.5s" repeatCount="indefinite"/>
+    <animate attributeName="fill-opacity" values="0.4;0.1;0.4" dur="5.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="90" cy="170" r="1.2" fill="#F0C040" fill-opacity="0.4">
+    <animate attributeName="cy" values="170;148;170" dur="9s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="590" cy="140" r="1.2" fill="#D4AF37" fill-opacity="0.4">
+    <animate attributeName="cy" values="140;118;140" dur="7.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="420" cy="45" r="1" fill="#F0C040" fill-opacity="0.35">
+    <animate attributeName="cy" values="45;25;45" dur="6s" repeatCount="indefinite" begin="1s"/>
+  </circle>
+  <circle cx="150" cy="290" r="1" fill="#D4AF37" fill-opacity="0.3">
+    <animate attributeName="cy" values="290;270;290" dur="8s" repeatCount="indefinite" begin="2s"/>
+  </circle>
+  <circle cx="640" cy="100" r="1" fill="#F0C040" fill-opacity="0.35">
+    <animate attributeName="cy" values="100;78;100" dur="5s" repeatCount="indefinite" begin="0.5s"/>
+  </circle>
+  <circle cx="30" cy="300" r="1" fill="#D4AF37" fill-opacity="0.3">
+    <animate attributeName="cy" values="300;278;300" dur="7s" repeatCount="indefinite" begin="3s"/>
+  </circle>
+
+  <!-- Líneas decorativas -->
+  <line x1="200" y1="200" x2="340" y2="200" stroke="#D4AF37" stroke-width="0.3" stroke-opacity="0.2">
+    <animate attributeName="stroke-opacity" values="0.2;0.05;0.2" dur="6s" repeatCount="indefinite"/>
+  </line>
+  <line x1="340" y1="200" x2="480" y2="200" stroke="#D4AF37" stroke-width="0.3" stroke-opacity="0.2">
+    <animate attributeName="stroke-opacity" values="0.2;0.05;0.2" dur="6s" repeatCount="indefinite" begin="3s"/>
+  </line>
+
+  <!-- Nombre principal -->
+  <text x="340" y="125" text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-size="44" font-weight="700"
+        fill="#D4AF37" letter-spacing="2">
+    Johan S. Castro
+    <animate attributeName="fill-opacity" values="0;1" dur="1.2s" fill="freeze"/>
+  </text>
+
+  <!-- Línea dorada decorativa -->
+  <rect x="230" y="135" width="220" height="1.2" fill="#D4AF37" fill-opacity="0.5" rx="1">
+    <animate attributeName="width" values="0;220" dur="1.4s" fill="freeze" begin="0.5s"/>
+    <animate attributeName="x" values="340;230" dur="1.4s" fill="freeze" begin="0.5s"/>
+  </rect>
+
+  <!-- Título profesional -->
+  <text x="340" y="168" text-anchor="middle"
+        font-family="'Trebuchet MS', Arial, sans-serif"
+        font-size="15" font-weight="400"
+        fill="#e8d080" letter-spacing="3" fill-opacity="0">
+    FULL STACK DEVELOPER  &amp;  AI/ML EXPERT
+    <animate attributeName="fill-opacity" values="0;0.85" dur="1s" fill="freeze" begin="0.8s"/>
+  </text>
+
+  <!-- Badges -->
+  <rect x="152" y="208" width="100" height="26" rx="13" fill="none" stroke="#D4AF37" stroke-width="0.8" stroke-opacity="0.6"/>
+  <text x="202" y="225" text-anchor="middle"
+        font-family="Arial, sans-serif" font-size="11" fill="#D4AF37" fill-opacity="0.85">
+    📍 Colombia
+  </text>
+
+  <rect x="265" y="208" width="150" height="26" rx="13" fill="#D4AF37" fill-opacity="0.12" stroke="#D4AF37" stroke-width="0.8" stroke-opacity="0.6"/>
+  <text x="340" y="225" text-anchor="middle"
+        font-family="Arial, sans-serif" font-size="11" fill="#D4AF37" fill-opacity="0.9">
+    💻 Full Stack + AI/ML
+  </text>
+
+  <rect x="428" y="208" width="130" height="26" rx="13" fill="none" stroke="#D4AF37" stroke-width="0.8" stroke-opacity="0.6"/>
+  <text x="493" y="225" text-anchor="middle"
+        font-family="Arial, sans-serif" font-size="11" fill="#D4AF37" fill-opacity="0.85">
+    🚀 Building with AI
+  </text>
+
+  <!-- Tagline -->
+  <text x="340" y="278" text-anchor="middle"
+        font-family="Arial, sans-serif" font-size="12"
+        fill="#888" letter-spacing="1" fill-opacity="0">
+    Crafting intelligent digital experiences from Colombia
+    <animate attributeName="fill-opacity" values="0;0.7" dur="1s" fill="freeze" begin="1.2s"/>
+  </text>
+
+  <!-- Destellos esquinas -->
+  <polygon points="24,24 28,20 32,24 28,28" fill="#D4AF37" fill-opacity="0.4">
+    <animate attributeName="fill-opacity" values="0.4;0.1;0.4" dur="4s" repeatCount="indefinite"/>
+  </polygon>
+  <polygon points="648,24 652,20 656,24 652,28" fill="#D4AF37" fill-opacity="0.4">
+    <animate attributeName="fill-opacity" values="0.4;0.1;0.4" dur="4s" repeatCount="indefinite" begin="2s"/>
+  </polygon>
+  <polygon points="24,292 28,288 32,292 28,296" fill="#D4AF37" fill-opacity="0.3">
+    <animate attributeName="fill-opacity" values="0.3;0.08;0.3" dur="5s" repeatCount="indefinite" begin="1s"/>
+  </polygon>
+  <polygon points="648,292 652,288 656,292 652,296" fill="#D4AF37" fill-opacity="0.3">
+    <animate attributeName="fill-opacity" values="0.3;0.08;0.3" dur="5s" repeatCount="indefinite" begin="3s"/>
+  </polygon>
+</svg>
