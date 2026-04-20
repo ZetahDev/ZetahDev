@@ -3,13 +3,13 @@
   
   # 👋 Hi, I'm **Johan S. Castro**
   
-  ## Frontend Developer & Digital Creator
+  ## Full Stack Developer & AI/ML Expert
   
-  **✨ Passionate about crafting beautiful, functional web experiences from Colombia ✨**
+  **✨ Passionate about building complete digital solutions powered by AI from Colombia ✨**
   
   <img src="https://img.shields.io/badge/📍%20Location-Colombia-D4AF37?style=flat-square" alt="Location" />
-  <img src="https://img.shields.io/badge/💻%20Focus-Frontend%20Development-1e90ff?style=flat-square" alt="Focus" />
-  <img src="https://img.shields.io/badge/🎨%20Passion-UI%2FUX%20Design-ff69b4?style=flat-square" alt="Passion" />
+  <img src="https://img.shields.io/badge/💻%20Focus-Full%20Stack%20%2B%20AI%2FML-1e90ff?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/🚀%20Passion-Building%20Intelligent%20Systems-ff69b4?style=flat-square" alt="Passion" />
   
 </div>
 
@@ -76,6 +76,35 @@
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+  ### Python Stack
+  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+  ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
+
+  ### 🤖 AI & Machine Learning Expert
+  ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+  ![Claude](https://img.shields.io/badge/Claude%20AI-D4AF37?style=for-the-badge&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+  ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+  ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
+  ![Anthropic](https://img.shields.io/badge/Anthropic%20API-D4AF37?style=for-the-badge&logoColor=white)
+  ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-9C27B0?style=for-the-badge&logoColor=white)
+  ![RAG](https://img.shields.io/badge/RAG%20Systems-FF5722?style=for-the-badge&logoColor=white)
+  ![Vector DB](https://img.shields.io/badge/Vector%20DB-4285F4?style=for-the-badge&logoColor=white)
+  ![Embeddings](https://img.shields.io/badge/Embeddings-5B7C99?style=for-the-badge&logoColor=white)
+  ![NLP](https://img.shields.io/badge/NLP-00D9FF?style=for-the-badge&logoColor=white)
+  ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-FF6B6B?style=for-the-badge&logoColor=white)
+  ![DALL-E](https://img.shields.io/badge/DALL--E-412991?style=for-the-badge&logoColor=white)
+  ![GPT](https://img.shields.io/badge/GPT%20Models-412991?style=for-the-badge&logoColor=white)
+  ![Transformers](https://img.shields.io/badge/Transformers-FFD700?style=for-the-badge&logoColor=black)
+  ![Fine-tuning](https://img.shields.io/badge/Fine--tuning-1DB954?style=for-the-badge&logoColor=white)
+  ![LLMs](https://img.shields.io/badge/Large%20Language%20Models-FF1493?style=for-the-badge&logoColor=white)
   
 </div>
 
