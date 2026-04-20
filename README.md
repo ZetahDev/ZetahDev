@@ -1,11 +1,15 @@
 <!-- Encabezado Hero Premium -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=45&duration=3000&pause=500&color=D4AF37&center=true&vCenter=true&width=800&height=100&lines=Hi+👋,+I'm+Johan+S.+Castro;Frontend+Developer+%26+Creator;Building+Digital+Experiences" alt="Typing SVG" />
-</div>
-
-<div align="center">
   
-  **✨ Passionate about crafting beautiful, functional web experiences from Colombia** ✨
+  # 👋 Hi, I'm **Johan S. Castro**
+  
+  ## Frontend Developer & Digital Creator
+  
+  **✨ Passionate about crafting beautiful, functional web experiences from Colombia ✨**
+  
+  <img src="https://img.shields.io/badge/📍%20Location-Colombia-D4AF37?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/💻%20Focus-Frontend%20Development-1e90ff?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/🎨%20Passion-UI%2FUX%20Design-ff69b4?style=flat-square" alt="Passion" />
   
 </div>
 
@@ -98,12 +102,17 @@
 
 ---
 
-<!-- Sección de Actividad -->
+<!-- Sección de Contribución -->
 <div align="center">
   
-  ## 🔥 Recent Activity
+  ## 🌟 My Contributions to the Community
   
-  [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zetahdev&theme=github-compact&bg_color=1a1a1a&color=D4AF37&line=D4AF37&point=D4AF37&area_color=1a1a1a&border_color=D4AF37)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  ⭐ **Discovering & Starring** amazing projects  
+  🔀 **Forking & Using** repositories that inspire my work  
+  📚 **Learning & Growing** with the developer community  
+  💡 **Building** solutions with trending technologies  
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zetahdev&theme=github-compact&bg_color=1a1a1a&color=D4AF37&line=D4AF37&point=D4AF37&area_color=1a1a1a&border_color=D4AF37" alt="Contribution Graph" />
   
 </div>
 
